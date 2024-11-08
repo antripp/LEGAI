@@ -1,7 +1,7 @@
-from gdpr_compliance_bot import GDPRComplianceBot
+_from gdpr_compliance_bot import GDPRComplianceBot
 #from frontend_compliance_bot import FrontendComplianceBot
 # Sample e-commerce code snippet
-with open("golf_test.py", "r") as f:
+with open("e_commerce.py", "r") as f:
     ecommerce_code = f.read()
 
 # Create an instance of GDPRComplianceBot and run the analysis
